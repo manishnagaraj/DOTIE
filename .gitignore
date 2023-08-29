@@ -1,6 +1,4 @@
 datasets/
-imgs/
-models/weights/
 .spyproject/*
 __pycache__/
 .vscode/
