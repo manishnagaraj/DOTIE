@@ -17,6 +17,9 @@ Create a conda environment using the environment.yml file: ```conda env create -
 
 Activate the conda environment: ```conda activate DOTIE```
 
+Download the YOLO model weights and config folders from [here](https://drive.google.com/drive/folders/1QYfqtP-ZqIxS-HWEmio6Yh3FTwoFBvDw?usp=drive_link) into the [`models` folder](https://github.com/manishnagaraj/DOTIE/tree/main/models) 
+
+
 ## Dataset
 
 The experiments shown in the paper use the MVSEC dataset outdoor_day2 sequence (found [here](https://daniilidis-group.github.io/mvsec/download/)).
